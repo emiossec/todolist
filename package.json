@@ -1,0 +1,12 @@
+{
+    "name": "ma-todolist",
+    "version": "0.1.0",
+    "dependencies": {
+        "express": "~4.13.4",
+        "ejs": "~2.4.1",
+        "cookie-session": "~1.1.0",
+        "body-parser": "~1.10.1"
+    },
+    "author": "Emiossec <emilienmiossec@gmail.com>",
+    "description": "This is my first ToDoList with node.js be happy :-)"
+}
